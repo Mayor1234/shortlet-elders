@@ -4,7 +4,7 @@ import AnimatedSection from '../shared/AnimatedSection';
 const Faq = () => {
   return (
     <div className="">
-      <div className="relative bg-fixed bg-[url('/shortlet_hero.jpg')] h-[550px] w-screen lg:h-[75vh] bg-no-repeat bg-cover bg-center bg-blend-overlay bg-neutral-700">
+      <div className="relative bg-fixed bg-[url('/shortlet_hero.jpg')] h-[600px] w-screen lg:h-[75vh] bg-no-repeat bg-cover bg-bottom lg:bg-center bg-blend-overlay bg-neutral-700">
         <div className="absolute inset-0 flex justify-center lg:justify-end w-full">
           <div className="container text-[#fff] p-5 w-full  bg-gray-900/50 bg-blend-overlay overflow-y-auto h-full lg:w-3/5 lg:p-16">
             <h3 className="text-2xl text-pry tracking-wide py-5 ">Faq</h3>
